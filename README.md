@@ -1,5 +1,26 @@
 # MotorolaTask
-Since I was a child I've always been surrounded by technology and by computers. One of the most interesting things for me was understand how this technology works. Growing up I have been getting closer and closer to this world. Now I attend the Wyższa Szkoła Ekonomii i Informatyki in Cracow and I have the possibility to learn more about IT. I decided to apply to your academy because I thought about the big opportunities that you company could offer me for example many projects or many different tasks. Coding is linked to the feeling of change that you breathe with it: thanks to it, in fact, the programmer will never stop learning, finding himself "forced" to have to constantly update in order to keep pace with technological evolution in order to improve and increase skills and knowledge. Technology is a way in continuous effervescence, which is why every programmer must always be updated on new scripting, formatting and programming languages, on web-based architecture development frameworks and on data-based infrastructures.Through this work, in fact, the programmer will have the opportunity to make new friends, interact with many other professionals in the industry and work for large companies, whose collaboration will prove to be fundamental in terms of personal and professional growth.
+To whom it may concern,
 
-Thanks for the attention,
+
+
+Thank you for considering me for your "Academy" program at Motorola. Here, I would like to share the reasons for applying.
+
+
+
+Since I was a child, I've always been surrounded by technology and by computers. One of the most interesting things for me was understanding how this technology works. Growing up, I have been getting closer and closer to this world. Now I attend the College Of Economics And Computer Science in Cracow and I have the chance to learn more about IT.
+
+
+
+I have decided to apply to your program because I think about the big opportunities that your company could offer me. In this experience, I will be able to develop my technical skills, working on many projects and different tasks.
+
+
+
+Finally, I have found a quote that describes accurately my opinion of how my life as a developer would look like. Coding is linked to the feeling of change that you breathe with it: thanks to it, in fact, the programmer will never stop learning, finding himself "forced" to have to constantly update in order to keep pace with technological evolution in order to improve and increase expertise and knowledge.
+
+
+
+Kind regards,
+
+
+
 Szymon Sobolewski
